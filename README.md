@@ -1,6 +1,6 @@
 # 🌈 ARC EN NUIT : Veilleuse Intelligente Automatisée
 
-![Vue d'ensemble de la maquette Arc en Nuit](./image/maquette_finale_debut.jpg)
+![Vue d'ensemble de la maquette Arc en Nuit](./image/maquette_arc.jpg)
 
 ## 💡 Introduction et Concepteur
 
