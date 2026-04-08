@@ -17,7 +17,7 @@ Cette section liste les composants matériels essentiels à la conception du cir
 
 | Composant | Quantité | Rôle dans le Projet |
 | :--- | :---: | :--- |
-| **Microcontrôleur** (Arduino UNO, Nano ou ESP) | 1 | Cœur du système, traitement des données analogiques et génération des signaux PWM. |
+| **Microcontrôleur** (Arduino UNO) | 1 | Cœur du système, traitement des données analogiques et génération des signaux PWM. |
 | **Capteur de Luminosité (LDR)** | 1 | Détection en temps réel du niveau d'éclairage ambiant. |
 | **LED RGB** | 1 | Actionneur principal : affichage du balayage chromatique (Arc-en-ciel). |
 | **LED Rouge** | 1 | Actionneur secondaire : utilisé exclusivement pour la phase initiale de test et de calibration du capteur. |
@@ -31,7 +31,7 @@ Cette section liste les composants matériels essentiels à la conception du cir
 
 Le schéma ci-dessous détaille le câblage complet du système, illustrant le pont diviseur pour l'entrée analogique et les sorties PWM pour le contrôle colorimétrique.
 
-![Schéma de câblage complet du système Arc en Nuit](./image/schema_cablage.jpg)
+![Schéma de câblage complet du système Arc en Nuit](./schema.jpg)
 
 ***
 
