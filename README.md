@@ -31,7 +31,7 @@ Cette section liste les composants matériels essentiels à la conception du cir
 
 Le schéma ci-dessous détaille le câblage complet du système, illustrant le pont diviseur pour l'entrée analogique et les sorties PWM pour le contrôle colorimétrique.
 
-![Schéma de câblage complet du système Arc en Nuit](./schema.jpg)
+![Schéma de câblage complet du système Arc en Nuit](./schema.png)
 
 ***
 
